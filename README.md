@@ -3,7 +3,7 @@ Power BI
 
 
 ## Live Dashboard
-![Company Data Dashboard](dashboard.jpg)
+
 
 
 
